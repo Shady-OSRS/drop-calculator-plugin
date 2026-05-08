@@ -1,4 +1,4 @@
-Advanced Drop Calculator
+# Advanced Drop Calculator
 
 A robust and intuitive drop calculator plugin for Old School RuneScape, designed to help you track your RNG and expected drops.
 
